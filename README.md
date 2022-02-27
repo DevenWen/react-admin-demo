@@ -1,3 +1,8 @@
+# 了解 React-Admin 
+
+在上网的时候发现这个管理后台前端框架还不错，故根据这个项目的引导写一下 demo。
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
